@@ -5,9 +5,9 @@ const BotIntroduction = () => {
   return (
     <div className="space-y-6">
       <div>
-        <h2 className="text-2xl font-bold text-gray-800">About E-ordering Bot</h2>
+        <h2 className="text-2xl font-bold text-gray-800">About E-Ticketing Bot</h2>
         <p className="mt-2 text-gray-600">
-          E-ordering is a Telegram bot designed to simplify the process of ordering products online.
+          E-Ticketing is a Telegram bot designed to simplify the process of ordering products online.
           It enables customers to inquire about products, view details, make payments, and complete purchases
           all within the Telegram messaging app.
         </p>
